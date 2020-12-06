@@ -1,3 +1,5 @@
-# vegitarian_binder
-A binder for the J&amp;J final project on heat and mass
+# J&J Heat and Mass final project
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jmox0351/vegitarian_binder/HEAD)
+
+Howdy! Welcome to the github repo for our final project for Heat and Mass transfer at CU Boulder for the fall of 2020. If you are not familar with the Binder Project we will go into a brief explanation now. The little button that says launch at the top of the screen will direct your browser to the Binder for our project. When you click the button Binder will automatically launch a Docker instance and import all of the need dependences for the Juypter notebook to function properly. Once this has finished you will see a file system, please click on the python notebook file to launch our project. Once in the notebook file Juypter will be running in your Docker istance and works exactly as it would if you had it installed on your machine! The notebook file will walk you through our work and you can even go in run code, modify code, and play around the variables that go into the functions. 
+
